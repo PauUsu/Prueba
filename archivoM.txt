@@ -1,2 +1,5 @@
 Hoy estamos trabajando con git en el modulo
 de nuevas tecnologías de programación
+
+hola buenas tardes, mi nombre es Russel y soy un guia explorador de la tribu 54, guarida 12 ¿Necesita que le brinde ayuda en
+algo señor?
